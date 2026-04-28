@@ -23,7 +23,7 @@ The project focuses on simplicity, performance, and intuitive design, making it 
 * Frontend: React
 * Language: JavaScript / TypeScript
 * Styling: CSS
-* Build Tool: (Vite أو Create React App — عدّلي حسب مشروعك)
+* Build Tool: (Vite)
 
 ---
 
