@@ -57,6 +57,12 @@ src/
 * Add favorites or saved content feature
 
 ---
+## Screenshots
+<img width="477" height="727" alt="image" src="https://github.com/user-attachments/assets/84c954e4-e2c0-495f-88c5-f42cd13b8908" />
+
+<img width="461" height="733" alt="image" src="https://github.com/user-attachments/assets/6981f12e-ac57-48cc-af76-472a57c33ad1" />
+<img width="467" height="731" alt="image" src="https://github.com/user-attachments/assets/416e2f74-af37-43d7-abfc-d22e9e34fe2b" />
+
 
 ## Author
 
