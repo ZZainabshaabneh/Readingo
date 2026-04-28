@@ -1,0 +1,6 @@
+{
+  "name": "Readingo",
+  "description": "An interactive application that helps users read books in a fun, gamified way, similar to Duolingo. It breaks down books into daily snippets with interactive quizzes to test comprehension, featuring points and streaks to encourage consistent reading habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
