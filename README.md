@@ -1,20 +1,66 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Readingo App
 
-# Run and deploy your AI Studio app
+## Overview
 
-This contains everything you need to run your app locally.
+Readingo is a modern web application designed to provide an engaging reading experience. It allows users to explore, browse, and interact with reading content through a clean and user-friendly interface.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1zIQLW7UqYkh-BuhZMug1SOqGSzO_ABPf
+The project focuses on simplicity, performance, and intuitive design, making it easy for users to discover and navigate content.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## Features
 
+* Responsive and user-friendly interface
+* Content browsing and structured layout
+* Smooth navigation between pages
+* Clean UI focused on readability
+* Modular and reusable components
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## Tech Stack
+
+* Frontend: React
+* Language: JavaScript / TypeScript
+* Styling: CSS
+* Build Tool: (Vite أو Create React App — عدّلي حسب مشروعك)
+
+---
+
+## Project Structure
+
+```id="oq4n4z"
+src/
+ ├── components/      # Reusable UI components
+ ├── pages/          # Application pages
+ ├── assets/         # Images and static files
+ └── App.js / App.tsx
+```
+
+---
+
+## What I Learned
+
+* Building responsive user interfaces using React
+* Structuring frontend applications with reusable components
+* Improving UI/UX for better user experience
+* Managing application state and navigation
+* Writing clean and maintainable code
+
+---
+
+## Future Improvements
+
+* Integrate external APIs for dynamic content (e.g., books or articles)
+* Add search and filtering functionality
+* Implement user authentication
+* Add favorites or saved content feature
+
+---
+
+## Author
+
+Zainab Shaabneh
+Frontend Developer
+
+GitHub: https://github.com/ZZainabshaabneh
